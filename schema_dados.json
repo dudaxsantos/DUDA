@@ -1,0 +1,21 @@
+{"Team Brave": "DataEngineers",
+    "versao _api":"1.0",
+    "data_coleta": "2026-09-15",
+    "registros_vendas":[
+        {
+        "id_transacao":1001,
+        "cliente":"Empresa J",
+        "valor_total":1550.50,
+        "status_qualidade":"Valido",
+        "campos_nulos": 0
+    },
+        {
+        "id_transacao":1002,
+        "cliente":"Empresa Inter",
+        "valor_total":1600.90,
+        "status_qualidade":"Invalido",
+        "campos_nulos": 0
+    }
+]
+
+}
